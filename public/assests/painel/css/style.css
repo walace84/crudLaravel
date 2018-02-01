@@ -1,0 +1,32 @@
+/*
+	Style do painel de produtos
+*/
+
+.title-pg{
+	color: red;
+	font-size: 2em;
+}
+
+.delete{
+	background-color: red;
+}
+
+.edit{
+	background-color: blue;
+}
+
+.action{
+	padding: 6px;
+	text-decoration: none;
+	color: #fff;
+	margin: 0px 2px;
+}
+
+.action:hover{
+	text-decoration: none;
+	color: #fff;
+}
+
+.btn-add{
+	margin-bottom: 10px;
+}
